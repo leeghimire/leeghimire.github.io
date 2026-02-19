@@ -1,0 +1,13 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#fff" stroke="#000" x="709" y="118" width="1" height="0" id="svg_2"/>
+  <rect stroke="#000" stroke-width="0" fill="#ff0000" x="49.59466" y="8.06031" width="290.99999" height="196.25844" id="svg_7"/>
+  <rect id="svg_1" height="444.00079" width="229.00041" y="59.00056" x="237.18147" stroke-width="0" stroke="#000" fill="#ffff00"/>
+  <rect stroke="#000" id="svg_4" height="146.00027" width="104.00039" y="59.00055" x="236.18147" stroke-width="0" fill="#ff8000"/>
+  <text transform="matrix(0.351945 0 0 1.66812 145.695 -33.5096)" fill="#000000" x="-183.78641" y="170.88448" id="svg_6" stroke-width="0" font-size="99" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" stroke="#000">OVERLAPS</text>
+  <text transform="matrix(0.351945 0 0 1.66812 145.695 -33.5096)" fill="#000000" x="-183.78641" y="226.03638" id="svg_14" stroke-width="0" font-size="99" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" stroke="#000">OVERLAPS</text>
+  <text transform="matrix(0.351945 0 0 1.66812 145.695 -33.5096)" fill="#000000" x="-195.15182" y="284.18567" id="svg_5" stroke-width="0" font-size="99" font-family="Noto Sans JP" text-anchor="start" xml:space="preserve" stroke="#000">OVERLAPS</text>
+ </g>
+
+</svg>
